@@ -3,7 +3,7 @@
 			<!-- Header -->
 				<header id="header">
 					<div class="logo">
-						<span class="icon"><img style="width: 70%;height: auto;margin-top: 15px;" src="wp-content/themes/theme_git/images/corne.png" alt="UNICORN"></span>	
+						<span class="icon"><img style="width: 70%;height: auto;margin-top: 15px;" src="wp-content/themes/git_project_cesi_2017/images/corne.png" alt="UNICORN"></span>	
 					</div>
 					
 					<div class="content">
