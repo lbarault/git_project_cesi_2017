@@ -1,6 +1,6 @@
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright"><?php dimension_footer_text()?>web work: <a href="http://cog.dog">cog.dog</a> &bull; theme: <a href="https://github.com/cogdog/wp-dimension">WP Dimension</a> based on <a href="https://html5up.net/dimension">HTML5 UP</a></p>
+						<p class="copyright"><?php dimension_footer_text()?>Unicorn Party: <a href="https://loic-barault.fr/">Best Fun Ever</a> &bull; theme: <a href="https://loic-barault.fr/">UNICORN THEME</a> créé par UNICORN AGENCY</p>
 					</footer>
 
 			</div> <!-- Wrapper -->

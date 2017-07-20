@@ -3,22 +3,15 @@
 			<!-- Header -->
 				<header id="header">
 					<div class="logo">
-	
-	
-					<?php if ( get_theme_mod( 'dimension_logo' ) ) : ?>
-						<img src="<?php echo esc_url( get_theme_mod( 'dimension_logo' ) ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>">
-					<?php else : ?>
-						<span class="icon fa-cogs"></span>
-					<?php endif; ?>
-					
+						<span class="icon"><img style="width: 70%;height: auto;margin-top: 15px;" src="wp-content/themes/theme_git/images/corne.png" alt="UNICORN"></span>	
 					</div>
 					
 					<div class="content">
 						<div class="inner">
-							<h1><?php bloginfo( 'name' ); ?></h1>
+							<h1>UNICORN DIMENSION</h1>
 							
 							<?php if ( get_bloginfo( 'description' )  !== '' ) { ?>
-								<h2><?php bloginfo( 'description' ); ?></h2>
+								<h2>GOUVERNEUR DES MONDES</h2>
 							<?php } ?>
 							
 							<!-- begin front quote (if used) -->
@@ -98,7 +91,7 @@
 						/* Restore original Post Data */
 						wp_reset_postdata();
 					} else {
-						echo '<!-- Main --><div id="main-none"><p>To add your links, create some new posts! Hello World does not count ;-)</p></div>';
+						echo '<!-- Main --><div id="main-none"><p>Inclinez-vous devant la suprematie des licornes. Les licornes pour les rassembler tous, les licrones pour les gouverner tous.<br> Vous ne pouvez pas y échapper.</p></div>';
 					}
 					?>
 								
