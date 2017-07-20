@@ -71,7 +71,8 @@
 	}
 
 	body {
-		background: #1b1f22;
+		background-image: url(../../images/deco-feuille-de-tissu-thermocollant-flex-6267493-cimg4805-jpg-7997a6-77b8e_big.jpg);
+        background-repeat: repeat;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after, body.is-switching *, body.is-switching *:before, body.is-switching *:after {
@@ -120,7 +121,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #ffffff;
+		color: #fff;
 		font-family: "Source Sans Pro", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
@@ -142,7 +143,7 @@
 		}
 
 	strong, b {
-		color: #ffffff;
+		color: #ff00ae;
 		font-weight: 600;
 	}
 
@@ -155,7 +156,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #ff00ae;
 		font-weight: 600;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
@@ -169,7 +170,7 @@
 		}
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
-			border-bottom: solid 1px #ffffff;
+			border-bottom: solid 1px #ff00ae;
 			width: -moz-max-content;
 			width: -webkit-max-content;
 			width: -ms-max-content;
