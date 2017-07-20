@@ -13,7 +13,7 @@
 		<?php wp_head(); ?>
 	</head>
 	<body>
-	<img style="position: fixed;top: 3%;left: -8%;height: 350px;width: auto;z-index: 100;" src="wp-content/themes/theme_git/images/unicorn.png">
-<img style="position: fixed;top: 50%;left: 85%;height: 350px;width: auto;z-index: 100;" src="wp-content/themes/theme_git/images/unicorn2.png">
+	<img style="position: fixed;top: 3%;left: -8%;height: 350px;width: auto;z-index: 100;" src="wp-content/themes/git_project_cesi_2017/images/unicorn.png">
+<img style="position: fixed;top: 50%;left: 85%;height: 350px;width: auto;z-index: 100;" src="wp-content/themes/git_project_cesi_2017/images/unicorn2.png">
 		<!-- Wrapper -->
 			<div id="wrapper">
